@@ -1,0 +1,14 @@
+{
+  "name": "quote",
+  "description": "Quote Scraper",
+  "main" : "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.0-rc0",
+    "superagent": "^3.8.2"
+  }
+}
